@@ -8,8 +8,8 @@ A simple blog preview card component.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/simple-blog-preview-card-WypBuVhLjC)
+- [Live site URL](https://precious-umeh.github.io/blog-preview-card/)
 
 ## My process
 
